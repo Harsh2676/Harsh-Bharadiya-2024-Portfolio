@@ -1,0 +1,236 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-banner.png",
+    "name": "Harsh Bharadiya",
+    "heading": "Hey I’m Harsh",
+    "typingText": ["I'm a Frontend Web Dev", 1500, "I'm a React js Dev", 1500],
+    "description": "Hello, i am looking for an opportunity to be a part of.... ",
+    "btnText": "Get CV",
+    "btnUrl": "/Files/Harsh_Bharadiya_Resume.pdf" 
+  },
+  "socialBtns": [
+   
+    { "icon": "fa-brands:instagram", "iconBgClass": "instagram", "href": "https://www.instagram.com/harsh_final.aep?igsh=MWZ5ZGo2cWQ1OTZhbA==" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/harsh-bharadiya-b3a73927a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    { "icon": "fa-brands:github", "iconBgClass": "github", "href": "https://github.com/Harsh2676" }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.png",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>Front-End Web</span> PROJECTS",
+    "description": "Always Trying to grab an opportunity to get involed in an React web app, Always learning new things to become an better Developer",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 280
+      },
+      {
+        "title": "Years Experience",
+        "number": 15
+      },
+      {
+        "title": "Awward Winning",
+        "number": 49
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/popup-project-1.jpg",
+        "title": "Expence tacker",
+        "subTitle": "MERN Stack Expence Stacker With Authentication.",
+        "details": {
+          "title": "MERN Stack Expence Tacker With Authentication.",
+          "description": "Each And every user's can login and register, you can add any income / expence Track And you can get your current Balance, and your passwords are safe with us because we store them in encrypted form so no one can access passwords.",
+          "langages": "REACT, NODE JS, Express JS, HTML, CSS, JS, MONGODB",
+          "platform": "Versel",
+          "country": "India",
+          "url": "https://mern-expense-tracker-mern-stack.vercel.app"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-1.jpg",
+        "title": "CRM Software (July-2024)",
+        "subTitle": "Crm to Handle Tele-Calling.",
+        "details": {
+          "title": "Website to handle telecalling of an agency",
+          "description": "It is made with React JS, HTML, CSS for frontend side and all data in backend is sotred in MongoDB Atlas and backend server is running with the help of NODE JS & Express",
+          "langages": "REACT, NODE JS, Express JS, HTML, CSS, JS",
+          "platform": "Versel",
+          "country": "India",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/TO-List.png",
+        "title": "Todo App",
+        "subTitle": "Handle's Task Day By Day.",
+        "details": {
+          "title": "Todo App",
+          "description": "Manage Your Todo's app by toggleing status of todo , that display's that todo is checked or not",
+          "type": "Website",
+          "langages": "REACT, HTML, CSS, JS",
+          "platform": "Versel",
+          "country": "India",
+          "url": "https://to-do-app-flax-six.vercel.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-1.jpg",
+        "title": "Tic Tac Toe App",
+        "subTitle": "Simple Game Made From React JS.",
+        "details": {
+          "title": "Tic Tac Toe App",
+          "description": "Play Tic Tac Toe With Your Friend And Increase Score In LeaderBoard. And Leaderboard Score Is Stored In Localstorage.",
+          "type": "Website",
+          "langages": "REACT, HTML, CSS, JS",
+          "platform": "Versel",
+          "country": "India",
+          "url": "https://tic-tac-toe-iota-eight-54.vercel.app/"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-01.jpg",
+        "title": "Website Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-02.jpg",
+        "title": "Website Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "SEO Marketing",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "Graphic Design",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Front-end Developer",
+        "company": "Ally Soft Solutions",
+        "duration": "2 Months",
+        "jobType": "Full time",
+        "companyTitle": "Ally Soft Solutions",
+        "companyDescription": "i started my journey of learning REACT JS from Ally Soft Solutions, i was intern there and was learning new things daily and daily it was almost become an part of my life, i have learned every basic concepts of React JS there in the guide of the professional expert, it was fun time learning new things and i had really fun there."
+      },
+      {
+        "designation": "Front-end Developer",
+        "company": "SD Vision ART",
+        "duration": "JULY 2024 - OCTOBER 2024",
+        "jobType": "Full time",
+        "companyTitle": "SD Vision Art",
+        "companyDescription": "i was solo intern there, as there were no senior web developer. when i was there i had started making big softwares like CRM to handle and manage things, as i was solo intern i had got so many of error's and so i know how to solve error's. and i also started to learn backend there."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Query",
+      "subTitle": "Always available for Full time job if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/about-banner.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "harshbharadiya8@gmail.com" },
+      { "title": "Call To Hire Me", "tel": "+91 88663 09240" }
+    ]
+  }
+}
